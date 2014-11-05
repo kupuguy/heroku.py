@@ -1,1 +1,2 @@
 requests>=0.8.6
+dateutil>=2.2
